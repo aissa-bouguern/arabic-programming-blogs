@@ -8,3 +8,7 @@
 | [مدونة إيثار شروف](https://etharshrouf.com/ar/blog) | تطوير الويب (تركيز على لارافيل) |
 | [مدونة بدوي](https://badwi.com/) | برمجة وريادة أعمال |
 | [مدونة خولة الشح](http://khawlah.ly/blog) | متنوعة |
+| [مدونة سعيد البقالي](https://saidelbakkali.com/) | وورردبريس |
+| [مدونة انفورماتيك](https://informatic-ar.com/) | متنوعة |
+| [معمل ألوان](https://colorslab.com/blog/) | تصميم وتجربة مستخدم |
+| [مدونة  فريلنسستشن](https://www.freelancestation.net/) | عمل حر وتطوير الذات |
